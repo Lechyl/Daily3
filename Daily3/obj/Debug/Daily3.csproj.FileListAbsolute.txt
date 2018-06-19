@@ -1,0 +1,7 @@
+c:\users\sde-03062\source\repos\Daily3\Daily3\bin\Debug\Daily3.exe.config
+c:\users\sde-03062\source\repos\Daily3\Daily3\bin\Debug\Daily3.exe
+c:\users\sde-03062\source\repos\Daily3\Daily3\bin\Debug\Daily3.pdb
+c:\users\sde-03062\source\repos\Daily3\Daily3\obj\Debug\Daily3.csprojResolveAssemblyReference.cache
+c:\users\sde-03062\source\repos\Daily3\Daily3\obj\Debug\Daily3.csproj.CoreCompileInputs.cache
+c:\users\sde-03062\source\repos\Daily3\Daily3\obj\Debug\Daily3.exe
+c:\users\sde-03062\source\repos\Daily3\Daily3\obj\Debug\Daily3.pdb
